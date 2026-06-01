@@ -1,4 +1,4 @@
-# CyArt VAPT Tasks
+# web-mobile-network-pentesting
 
 This repository contains VAPT weekly tasks performed using the PTES methodology.
 
